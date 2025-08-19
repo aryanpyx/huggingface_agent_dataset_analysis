@@ -41,9 +41,9 @@ Open the generated HTML report in your browser:
 
 ydata_profiling_report.html
 
-📸 Example Output
+## 📸 Example Output  
 
-(Add a screenshot of the profiling report here)
+![Example Output](https://github.com/aryanpyx/huggingface_agent_dataset_analysis/blob/ed4a82a5f7ccc4e45962dab34a1665dd4de6d289/Screenshot%202025-08-20%20024004.png)
 
 📈 Features
 
